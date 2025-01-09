@@ -1,0 +1,3 @@
+Z:/Clion/Raytracer/build_windows/CMakeFiles/Raytracer.dir
+Z:/Clion/Raytracer/build_windows/CMakeFiles/ALL_BUILD.dir
+Z:/Clion/Raytracer/build_windows/CMakeFiles/ZERO_CHECK.dir
