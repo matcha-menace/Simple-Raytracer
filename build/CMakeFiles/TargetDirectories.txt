@@ -1,0 +1,3 @@
+/Users/eveth/Projects/Clion/Raytracer/build/CMakeFiles/Raytracer.dir
+/Users/eveth/Projects/Clion/Raytracer/build/CMakeFiles/edit_cache.dir
+/Users/eveth/Projects/Clion/Raytracer/build/CMakeFiles/rebuild_cache.dir
