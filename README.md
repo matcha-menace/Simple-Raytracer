@@ -1,4 +1,4 @@
-This is a project to practice C++, following [this paper](https://raytracing.github.io/books/RayTracingInOneWeekend.html0
+This is a project to practice C++, following [this paper](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 
 A simple raytracer.
 
