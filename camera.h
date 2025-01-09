@@ -15,6 +15,8 @@ class camera {
     int image_width = 100;
     int samples_per_pixel = 10;
     int max_depth = 10; // max no of rays bouncing into scene
+    color background_up_color = color(0.3, 0.4, 0.6);
+    color background_down_color = color(0.8, 0.8, 1.0);
 
     double vfov = 90;
     point3 position = point3(0, 0, 0);
@@ -112,7 +114,7 @@ class camera {
 
         vec3 unit_direction = unit_vector(r.direction());
         auto a = 0.5 * (unit_direction.y() + 1.0);
-        return (1.0 - a) * color(0.1, 0.1, 0.1) + a * color(0.4, 0.4, 0.6);
+        return (1.0 - a) * background_down_color + a * background_up_color;
     }
 };
 
